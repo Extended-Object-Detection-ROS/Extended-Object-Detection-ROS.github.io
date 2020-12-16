@@ -1,4 +1,4 @@
-[rus](./index_ru.md)
+[<img src="../assets/rus.png">](./index_ru.md)
 
 Hello! My name is Anton Moscowsky and I am developer of Extended Object Detection package for Robotic Operationg System (ROS). 
 
