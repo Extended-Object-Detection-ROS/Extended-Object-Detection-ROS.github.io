@@ -30,4 +30,4 @@
 
 Также на митапе были подведены результаты конкурса открытых пакетов. Extended Object Detection с небольшим отрывом занял первое место и был награжден комьютером nVidia Jetson Xavier!
 
-<img src="assets/xavier.jpg" width="500">
+<img src="./assets/xavier.jpg" width="500">
