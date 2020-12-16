@@ -3,4 +3,5 @@ logo: /assets/ExtendedEyeAlpha.png
 description: Developer Blog
 show_downloads: false
 google_analytics:
+source: https://github.com/Extended-Object-Detection-ROS
 theme: jekyll-theme-minimal
