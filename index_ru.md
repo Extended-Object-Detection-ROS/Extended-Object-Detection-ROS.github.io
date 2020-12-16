@@ -1,4 +1,4 @@
-[<img src="../assets/end.png">](./index.md)
+[<img src="./assets/end.png">](./index.md)
 
 Привет! Меня зовут Москоский Антон и я разработчик пакета Extended Object Detection для ROS.
 
