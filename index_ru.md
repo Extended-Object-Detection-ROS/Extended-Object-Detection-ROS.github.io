@@ -1,9 +1,9 @@
 [eng](./index.md)
 
-Hello! My name is Anton Moscowsky and I am developer of Extended Object Detection package for Robotic Operationg System (ROS). 
+Привет! Меня зовут Москоский Антон и я разработчик пакета Extended Object Detection для ROS.
 
-This package is a solution in the field of computer vision, which contains a set of various methods for detecting objects, united by one interface. To use the package, you do not need to dive into the API, all detection settings are available through a single configuration file. The package is developed within the "recognition by parts" paradigm, which allows you to specify various attributes of an object, such as image, color, shape, size, etc. These attributes are recognized separately and then aggregated into integral objects. In addition to recognizing simple objects, the package allows you to specify their combinations, detecting a complex object, which is a set of simple objects and relationships between them. The package provides a full-fledged ROS interface, allowing it to be used in robotics tasks.
+Данный пакет является решением в области компьютерного зрения, который содержит набор различных методов детектирования объектов, объединенных одним интерфейсом. Для использования пакета не требуется погружение в API, все настройки детектирования доступны через единый конфигурационный файл. Пакет разработан в рамках парадигмы "распознавания по частям", что позволяет указывать различные признаки объекта, такие как образ, цвет, форма, размеры и др. Эти признаки распознаются по-отдельности и далее агрегируются в целостные объекты. Помимо распознавания простых объектов, пакет позволяет задавать их комбинации, детектируя сложный объект, который является набором простых объектов и отношений между ними. Пакет предоставляет полноценный ROS интерфейс, позволяющий использовать его в задачах робототехники.
 
 # Content
 
-1. [First release, package competition and ROS meetup](./ru/first_release.md)
+1. [Первый релиз, конкурс пакетов и ROS meetup](./ru/first_release.md)
