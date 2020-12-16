@@ -1,6 +1,6 @@
 title: Extended Object Detection
 logo: /assets/ExtendedEyeAlpha.png
-description: Extended Object Detection Developer Blog
-show_downloads: true
+description: Developer Blog
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
